@@ -3,6 +3,7 @@
 
 
 Fundamental Concepts of Version Control are as follows
+
 Repository (Repo): A repository is a database that stores all the versions of a project’s files and directories. It contains the complete history of changes, allowing you to access or revert to previous versions.
 
 Commit: A commit is a snapshot of the project at a specific point in time. Each commit has a unique identifier (usually a hash) and includes a log message describing the changes made.
@@ -21,8 +22,8 @@ Push: Pushing sends local changes to a remote repository, making them available 
 
 By maintaining a structured approach to changes, version control systems like Git and platforms like GitHub ensure that projects remain manageable, traceable, and resilient to errors, ultimately supporting the integrity and success of development efforts.
 
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
+## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 Setting up a new repository on GitHub involves several key steps, each with important decisions to ensure that the repository is configured correctly and suits your needs. Here’s a step-by-step guide:
 
@@ -81,7 +82,6 @@ bash
 Copy code
 git push origin main
 This command uploads your commits to the GitHub repository. If you initialized with a different branch name (like master), replace main with that branch name.
-
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
