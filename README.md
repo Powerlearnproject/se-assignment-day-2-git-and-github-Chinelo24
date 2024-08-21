@@ -308,7 +308,7 @@ Cloning: Copies a repository to your local machine for development and local cha
 
 Both forking and cloning are integral to modern development workflows, each serving distinct purposes in the process of software development and collaboration.
 
-## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts. 
 
 Issues and project boards on GitHub are vital tools for tracking, managing, and organizing various aspects of a software project. They help in tracking bugs, managing tasks, and improving overall project organization, which is crucial for effective collaboration and project management.
 
